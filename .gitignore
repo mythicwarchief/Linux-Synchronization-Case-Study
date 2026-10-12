@@ -1,0 +1,20 @@
+# Compiled executables
+bin/
+race_condition
+mutex_demo
+semaphore_demo
+spinlock_demo
+benchmark
+
+# Object files
+*.o
+*.obj
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated plots
+*.png
+*.jpg
+*.jpeg
