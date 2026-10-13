@@ -1,0 +1,3 @@
+mechanism,threads,iterations_per_thread,expected,actual,time_seconds
+Mutex,4,500000,2000000,2000000,0.072879778
+Spinlock,4,500000,2000000,2000000,0.168816248
